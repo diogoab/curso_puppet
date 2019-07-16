@@ -1,0 +1,15 @@
+#encoding=UTF-8
+#version=1
+org.eclipse.jgit.ant.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.ant.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.archive.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.archive.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.http.apache.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.http.apache.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.http.server.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.http.server.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.junit.http.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.junit.http.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.junit.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.junit.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.junit.ssh.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.junit.ssh.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.lfs.server.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.lfs.server.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.lfs.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.lfs.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.pgm.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.pgm.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.ssh.apache.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.ssh.apache.source_5.4.0.201906121030-r.jar,-1,false
+org.eclipse.jgit.ui.source,5.4.0.201906121030-r,plugins/org.eclipse.jgit.ui.source_5.4.0.201906121030-r.jar,-1,false

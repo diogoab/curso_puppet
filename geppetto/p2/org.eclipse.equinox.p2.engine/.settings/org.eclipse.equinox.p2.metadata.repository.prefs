@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+repositories/file\:_var_lib_jenkins_workspace_Geppetto_output_com.puppetlabs.geppetto.site_4.3.1-eclipse.feature_site.p2/enabled=true
+repositories/file\:_var_lib_jenkins_workspace_Geppetto_output_com.puppetlabs.geppetto.site_4.3.1-eclipse.feature_site.p2/isSystem=false
+repositories/file\:_var_lib_jenkins_workspace_Geppetto_output_com.puppetlabs.geppetto.site_4.3.1-eclipse.feature_site.p2/name=Puppet Labs Geppetto Update Site
+repositories/file\:_var_lib_jenkins_workspace_Geppetto_output_com.puppetlabs.geppetto.site_4.3.1-eclipse.feature_site.p2/suffix=content.xml
+repositories/file\:_var_lib_jenkins_workspace_Geppetto_output_com.puppetlabs.geppetto.site_4.3.1-eclipse.feature_site.p2/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_var_lib_jenkins_workspace_Geppetto_output_com.puppetlabs.geppetto.site_4.3.1-eclipse.feature_site.p2/uri=file\:/var/lib/jenkins/workspace/Geppetto/output/com.puppetlabs.geppetto.site_4.3.1-eclipse.feature/site.p2/
+repositories/file\:_var_lib_jenkins_workspace_Geppetto_output_com.puppetlabs.geppetto.site_4.3.1-eclipse.feature_site.p2/version=1.0.0
+repositories/http\:__geppetto-updates.puppetlabs.com_4.x/count=6
+repositories/http\:__geppetto-updates.puppetlabs.com_4.x/enabled=true
+repositories/http\:__geppetto-updates.puppetlabs.com_4.x/isSystem=false
+repositories/http\:__geppetto-updates.puppetlabs.com_4.x/nickname=Geppetto Updates
+repositories/http\:__geppetto-updates.puppetlabs.com_4.x/uri=http\://geppetto-updates.puppetlabs.com/4.x

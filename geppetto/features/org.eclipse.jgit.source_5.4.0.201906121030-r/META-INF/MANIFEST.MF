@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: genie.jgit
+Created-By: Apache Maven 3.5.2
+Build-Jdk: 1.8.0_192
+
+Name: edl-v10.html
+SHA-256-Digest: iIYuEaEZ7KuDVA8r7/8gIuJJZknxu2gE2oJ8I3Zyldc=
+
+Name: feature.xml
+SHA-256-Digest: YB7UuI6z5NlbFNhQWOX0SSt4pC1oi6xAgg703JsghuY=
+
+Name: feature.properties
+SHA-256-Digest: nFNZ3vyXO5Ca/CfrZBth+aInp7s+rgJWonpX+qCtaMA=
+
+Name: license.html
+SHA-256-Digest: Dv5NbrV590iFepPFp4HDAA9w8zkHSynRW5FCE+FLHVM=
+
